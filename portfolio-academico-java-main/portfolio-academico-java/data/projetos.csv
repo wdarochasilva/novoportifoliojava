@@ -1,0 +1,6 @@
+id;nome;descricao;categoria;status
+1;Painel de Atendimento;Painel para atendimento médico;Web;Concluído
+2;Portfolio Academico;Portfolio Academico em Java;Software;Em desenvolvimento
+3;Atividades Java;Atividades desenvolvidas em linguagem Java;Software;Em desenvolvimento
+4;Projeto Teste;;Web;Em desenvolvimento
+5;Projeto Criado por API;Projeto criado por requisição da API REST;Software;Planejado
